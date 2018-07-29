@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6343C</color>
+    <color name="colorPrimaryDark">#D01E00</color>
+    <color name="colorAccent">#F6343C</color>
+
+    <color name="colorToolbarText">#FFF</color>
+    <color name="colorBackground">#FFF</color>
+    <color name="colorDivider">#EEE</color>
+</resources>

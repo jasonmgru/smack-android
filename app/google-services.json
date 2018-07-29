@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658435394848",
+    "firebase_url": "https://smack-211603.firebaseio.com",
+    "project_id": "smack-211603",
+    "storage_bucket": "smack-211603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658435394848:android:cd0dd729ba0093b8",
+        "android_client_info": {
+          "package_name": "com.jasonmgru.smack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658435394848-mr06bjd33c2f016ub86osekkh1nu2esi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasonmgru.smack",
+            "certificate_hash": "192e11d5e6ad52f1dffe8e634320fbc264ebeaee"
+          }
+        },
+        {
+          "client_id": "658435394848-2ciqpvi049ao2pgaslc07dhu1p9ilqr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAadlWbE-H5rXrXEiyN9bVD_bCVjH8Hv28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658435394848-2ciqpvi049ao2pgaslc07dhu1p9ilqr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
